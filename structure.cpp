@@ -60,7 +60,7 @@ int main() {
        }
        int choice;
         do {
-
+cout<<"'\n--------------------------------\n;
 cout << "\n1. Park Car\n";
  cout << "2. Remove Car\n";
   cout << "3. Show Available\n";
